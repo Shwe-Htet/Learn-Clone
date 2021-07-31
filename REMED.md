@@ -8,3 +8,11 @@ This is modifing from terminal.
 
 
 I am eating apple
+
+## Third branch
+
+I am trying hard
+
+## Changes 
+
+Trying to profficient in Git
