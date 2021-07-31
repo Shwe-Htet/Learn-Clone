@@ -18,3 +18,5 @@ I am trying hard
 Trying to profficient in Git
 
 >>>>>where
+
+>>>>>Myname
