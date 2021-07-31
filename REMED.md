@@ -16,7 +16,10 @@ I am trying hard
 ## Changes 
 
 Trying to profficient in Git
+<<<<<<< HEAD
 
 ## Undoing 
 
 This is learning how to undoing
+=======
+>>>>>>> 8355a945cf83cc07f33c477d5ab17a220f89ceac
